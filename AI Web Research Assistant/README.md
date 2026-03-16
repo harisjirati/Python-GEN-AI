@@ -26,7 +26,7 @@ accurate answers using a **Large Language Model (LLM)**.
 
 ### Application Interface
 
-![Application UI](/Application_Interface.png)
+![Application UI](Application_Interface.png)
 
 ### Generated Answer
 
