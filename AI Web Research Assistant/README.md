@@ -26,11 +26,11 @@ accurate answers using a **Large Language Model (LLM)**.
 
 ### Application Interface
 
-![Application UI](images/interface.png)
+![Application UI](/Gemini_Generated_Image_ds0tkjds0tkjds0t)
 
 ### Generated Answer
 
-![Answer Output](images/output.png)
+![Answer Output](Gemini_Generated_Image_3xgpiz3xgpiz3xgp)
 
 *(Add your screenshots inside an `images` folder in the repository)*
 
