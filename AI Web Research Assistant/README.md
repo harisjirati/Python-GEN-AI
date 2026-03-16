@@ -26,7 +26,7 @@ accurate answers using a **Large Language Model (LLM)**.
 
 ### Application Interface
 
-![Application UI](/Gemini_Generated_Image_ds0tkjds0tkjds0t)
+![Application UI](/Application Interface.png)
 
 ### Generated Answer
 
