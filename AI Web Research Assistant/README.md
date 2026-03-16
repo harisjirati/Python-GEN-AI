@@ -30,7 +30,7 @@ accurate answers using a **Large Language Model (LLM)**.
 
 ### Generated Answer
 
-![Answer Output](Gemini_Generated_Image_3xgpiz3xgpiz3xgp)
+![SYSTEM DIAGRAM](Workflow.png)
 
 *(Add your screenshots inside an `images` folder in the repository)*
 
