@@ -129,7 +129,4 @@ Building smarter AI tools that make everyday tasks easier 🚀
 
 ---
 
-If you want next step, I can:
-- 🔥 Add **real GIF demo from your app**
-- 🔥 Customize with your **resume + projects**
-- 🔥 Make it **LinkedIn portfolio ready**
+
