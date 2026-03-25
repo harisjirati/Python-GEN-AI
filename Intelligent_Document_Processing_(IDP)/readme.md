@@ -1,6 +1,6 @@
 # 🧠 Intelligent Document Processing (IDP) System
 
-![IDP Banner](./assets/idp-banner.png)
+![IDP Banner](Screenshot 2026-03-26 015857.png)
 
 ## 🚀 Overview
 
