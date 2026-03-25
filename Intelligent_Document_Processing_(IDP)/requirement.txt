@@ -1,0 +1,15 @@
+pymupdf
+python-dotenv 
+sentence-transformers
+faiss-cpu
+chromadb
+numpy
+transformers 
+torch
+streamlit==1.35.0
+requests==2.31.0
+pydantic==2.7.0
+fastapi
+uvicorn[standard]==0.27.0
+python-multipart==0.0.20
+tornado==6.4.2
