@@ -1,7 +1,6 @@
 # 🧠 Intelligent Document Processing (IDP) System
 
-(Screenshot 2026-03-26 015857.png)
-
+![Workflow](workflow.png)
 ## 🚀 Overview
 
 The **Intelligent Document Processing (IDP) System** is an AI-powered application that extracts and answers questions from unstructured PDF documents using a **Retrieval-Augmented Generation (RAG)** pipeline.
